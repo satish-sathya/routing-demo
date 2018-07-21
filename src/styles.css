@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+nav a:visited,a link{
+    color: cyan
+}
+
+nav a:hover{
+    color: brown;background-color: aliceblue
+}
+nav a.active {color: chartreuse}
+
+nav a{
+    padding: 5px 30px;
+    border-radius: 4px;
+    background-color: black; 
+}
